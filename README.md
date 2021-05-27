@@ -15,10 +15,6 @@ Please navigate into both of these directories and execute `npm i` to install th
 
 ---
 
-### Set Up 
-
-_IMPORTANT_ Before making any changes, please create a branch with YOUR NAME as the branch name!
-
 ## Requirement 1
 
 You are tasked with updating the ExpressJS server in the [back-end](./back-end) directory to:
@@ -38,6 +34,6 @@ Additionally, you will update the ReactJS application in [front-end](./front-end
 
 ## Submission
 
-Once you have completed the code exercise and double-checking that you are on your own branch (from the [Set Up](#set-up)) step above, you may push your changes to the hosted repository.
+Once you have completed the code exercise, please push the code to your own publicly accessible Git location (GitHub, GitLab, etc) and send the link to your point of contact. 
 
-Done!
+Done! Thank you for your interest in Message Broadcast, we look forward to reviewing your code!
